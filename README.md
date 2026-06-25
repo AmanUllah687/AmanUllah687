@@ -34,7 +34,7 @@ I've spent the last couple of years going from "can I build this" to "can I make
 
 #### 🌱 Right now
 
-- 🎯 Building a React project I can actually point to as proof — not just practice repos
+- 🎯 Building a React project 
 - 🎨 Learning Figma and conversion-focused design patterns
 - 🤝 Open to frontend & React roles, remote or on-site
 
