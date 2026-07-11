@@ -50,6 +50,6 @@ k:..   .,lc;'............,:,.  .',,lOKKK
 
 ### 🌱 Currently
 
-* 🎯 Building a React project to add to this list
+* 🎯 Building a React project 
 * 🎨 Learning Figma and conversion-focused design
 * 🤝 Open to frontend & React roles, remote or on-site
